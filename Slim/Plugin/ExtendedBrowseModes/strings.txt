@@ -8,6 +8,7 @@ PLUGIN_EXTENDED_BROWSEMODES
 	NO	Ytterligere browse-modi
 	PL	Dodatkowe tryby przeglądania
 	SV	Ytterligare blädder-menyer
+        RU      Расширенный режим
 
 PLUGIN_EXTENDED_BROWSEMODES_DESC
 	CS	Vytvořte si další režimy procházení a procházejte hudební knihovnu podle interpretů alba, skladatelů, vybraných žánrů a dalších.
@@ -19,6 +20,7 @@ PLUGIN_EXTENDED_BROWSEMODES_DESC
 	NO	Lag ytterligere menyer for å bla i musikksamlingen via albumartister, komponister, utvalgte sjangre osv.
 	PL	Tworzenie dodatkowych trybów przeglądania twojej biblioteki internetowej, np. przeglądanie wg wykonawców albumów, kompozytorów, wybranych gatunków itp.
 	SV	Skapa ytterligare menyer för att bläddra is musiksamlingen via albumartister, kompositörer, valda genrer osv.
+	RU	Создаnm дополнительные режимы просмотра для просмотра вашей музыкальной библиотеки по исполнителям альбомов, композиторам, выбору жанров и т. д.
 
 PLUGIN_EXTENDED_BROWSEMODES_BROWSE_BY_ALBUMARTIST
 	CS	Interpreti alba
@@ -49,6 +51,7 @@ PLUGIN_EXTENDED_BROWSEMODES_BROWSE_BY_COMPOSERS
 	NO	Komponister
 	PL	Kompozytorzy
 	SV	Kompositörer
+	RU	Композиторы
 
 PLUGIN_EXTENDED_BROWSEMODES_BROWSE_BY_CLASSICAL_MUSIC_BY_CONDUCTOR
 	CS	Klasická hudba podle dirigenta
@@ -56,6 +59,7 @@ PLUGIN_EXTENDED_BROWSEMODES_BROWSE_BY_CLASSICAL_MUSIC_BY_CONDUCTOR
 	EN	Classical Music by Conductor
 	HU	Klasszikus zene adott karmestertől
 	NL	Klassieke muziek van Dirigent
+	RU	Классическая музыка в исполнении дирижера
 
 PLUGIN_EXTENDED_BROWSEMODES_BROWSE_BY_JAZZ_COMPOSERS
 	CS	Jazzoví skladatelé
@@ -63,6 +67,7 @@ PLUGIN_EXTENDED_BROWSEMODES_BROWSE_BY_JAZZ_COMPOSERS
 	EN	Jazz Composers
 	HU	Jazz zeneszerzők
 	NL	Jazz Componisten
+	RU	Джазовые Композиторы
 
 PLUGIN_EXTENDED_BROWSEMODES_ROLES
 	CS	Role přispěvatelů:
@@ -74,6 +79,7 @@ PLUGIN_EXTENDED_BROWSEMODES_ROLES
 	NO	Utøverroller:
 	PL	Role kontrybutorów:
 	SV	Artistroll
+	RU	Участники:
 
 PLUGIN_EXTENDED_BROWSEMODES_RELEASE_TYPE
 	CS	Typ vydání:
@@ -82,6 +88,7 @@ PLUGIN_EXTENDED_BROWSEMODES_RELEASE_TYPE
 	FR	Type de sortie :
 	HU	Kiadás típusa:
 	NL	Release type:
+	RU	Тип релиза:
 
 PLUGIN_EXTENDED_BROWSEMODES_RELEASE_TYPE_HINT
 	CS	Typy vydání:
@@ -90,6 +97,7 @@ PLUGIN_EXTENDED_BROWSEMODES_RELEASE_TYPE_HINT
 	FR	Types de sorties :
 	HU	Kiadás típusai:
 	NL	Release typen:
+	RU	Тип релиза:
 
 PLUGIN_EXTENDED_BROWSEMODES_BROWSE_BY
 	CS	Procházet podle:
@@ -101,6 +109,7 @@ PLUGIN_EXTENDED_BROWSEMODES_BROWSE_BY
 	NO	Bla etter:
 	PL	Przeglądaj wg:
 	SV	Bläddra efter:
+	RU	Поиск по:
 
 PLUGIN_EXTENDED_BROWSEMODES_APPLY_TO
 	CS	Použít pro:
